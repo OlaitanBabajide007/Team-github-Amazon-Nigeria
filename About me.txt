@@ -9,3 +9,5 @@ with excellent problem & analytical skills required to deliver projects/Health c
 I am adept at learning, self-starting with the ability to succeed in dynamic, multi-cultural environments, and can skillfully manage multiple tasks while remaining focused,
  
 reliable and resilient.
+
+This is just to test that i was able to update the about me notepad and add it up to my git.
