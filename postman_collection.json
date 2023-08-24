@@ -64,9 +64,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlEntries}}",
+							"raw": "{{baseURLEntries}}",
 							"host": [
-								"{{baseUrlEntries}}"
+								"{{baseURLEntries}}"
 							],
 							"query": [
 								{
@@ -126,9 +126,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlEntries}}?=",
+							"raw": "{{baseURLEntries}}?=",
 							"host": [
-								"{{baseUrlEntries}}"
+								"{{baseURLEntries}}"
 							],
 							"query": [
 								{
@@ -187,9 +187,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlEntries}}",
+							"raw": "{{baseURLEntries}}",
 							"host": [
-								"{{baseUrlEntries}}"
+								"{{baseURLEntries}}"
 							],
 							"query": [
 								{
@@ -244,9 +244,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlEntries}}",
+							"raw": "{{baseURLEntries}}",
 							"host": [
-								"{{baseUrlEntries}}"
+								"{{baseURLEntries}}"
 							],
 							"query": [
 								{
@@ -337,9 +337,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlBooks}}/books",
+							"raw": "{{baseURLBooks}}/books",
 							"host": [
-								"{{baseUrlBooks}}"
+								"{{baseURLBooks}}"
 							],
 							"path": [
 								"books"
@@ -396,9 +396,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlBooks}}/books/:bookId?=",
+							"raw": "{{baseURLBooks}}/books/:bookId?=",
 							"host": [
-								"{{baseUrlBooks}}"
+								"{{baseURLBooks}}"
 							],
 							"path": [
 								"books",
@@ -461,9 +461,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlBooks}}/books?type=fiction&={{entitytype}}",
+							"raw": "{{baseURLBooks}}/books?type=fiction&={{entitytype}}",
 							"host": [
-								"{{baseUrlBooks}}"
+								"{{baseURLBooks}}"
 							],
 							"path": [
 								"books"
@@ -542,9 +542,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlBooks}}/orders",
+							"raw": "{{baseURLBooks}}/orders",
 							"host": [
-								"{{baseUrlBooks}}"
+								"{{baseURLBooks}}"
 							],
 							"path": [
 								"orders"
@@ -609,9 +609,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlBooks}}/orders",
+							"raw": "{{baseURLBooks}}/orders",
 							"host": [
-								"{{baseUrlBooks}}"
+								"{{baseURLBooks}}"
 							],
 							"path": [
 								"orders"
@@ -678,9 +678,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlBooks}}/orders/:orderId",
+							"raw": "{{baseURLBooks}}/orders/:orderId",
 							"host": [
-								"{{baseUrlBooks}}"
+								"{{baseURLBooks}}"
 							],
 							"path": [
 								"orders",
@@ -749,9 +749,9 @@
 							}
 						},
 						"url": {
-							"raw": "{{baseUrlBooks}}/orders/",
+							"raw": "{{baseURLBooks}}/orders/",
 							"host": [
-								"{{baseUrlBooks}}"
+								"{{baseURLBooks}}"
 							],
 							"path": [
 								"orders",
@@ -909,9 +909,9 @@
 					}
 				},
 				"url": {
-					"raw": "{{baseUrlBooks}}/api-clients/",
+					"raw": "{{baseURLBooks}}/api-clients/",
 					"host": [
-						"{{baseUrlBooks}}"
+						"{{baseURLBooks}}"
 					],
 					"path": [
 						"api-clients",
@@ -969,9 +969,9 @@
 					}
 				},
 				"url": {
-					"raw": "{{baseUrlBooks}}/status",
+					"raw": "{{baseURLBooks}}/status",
 					"host": [
-						"{{baseUrlBooks}}"
+						"{{baseURLBooks}}"
 					],
 					"path": [
 						"status"
